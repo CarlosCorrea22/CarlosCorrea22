@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho com Front-End, principalmente HTML e CSS
 - 🌱 Estudando JavaScript
 - 📫 Email para contato: carlosrrea44@gmail.com
-- 👄 Ingles de nivel médio-avançado
+- 👄 Ingles de nivel intermediário
 - ⚡ Projetos feitos por mim: <br>
 --- Projeto Android: https://carloscorrea22.github.io/projeto-android/ <br>
 --- Projeto Cordel: https://carloscorrea22.github.io/projeto-cordel/ <br>
